@@ -1,0 +1,32 @@
+footer{
+	background-color: black;
+}
+footer,
+.h3{
+	color: white;
+	text-align: center;
+}
+nav{
+	background-color: whitesmoke;
+	padding: 5px;
+}
+footer,
+.col-1{
+	background-color: black;
+	
+}
+
+
+.profile a{
+	color: white;
+}
+@media(max-widith:576px){
+	/*responsive to small media*/
+
+}
+@media(min-width:576px)and(max-width:768px){
+	/*responsive to large media*/
+}
+@media(min-width:1200px){
+	/*responsive to desktop*/
+}
